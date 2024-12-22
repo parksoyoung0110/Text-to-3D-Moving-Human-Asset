@@ -41,13 +41,16 @@ Assets>BHV
 
 "A person is running on a treadmill.", "A person jumps up and then lands.", "The person does a salsa dance." 을 input으로한 momask의 결과 파일
 
+
 Assets>animation_fbx
 
 momask의 BHV파일을 BHVImporter를 통해 fbx로 변환한 파일
 
+
 Assets>OBJ
 
 Hunyuan3D-1로 생성한 캐릭터 5종
+
 
 Assets>RIG
 
